@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Krisna Saputra</h1>
-<h3 align="center">Halo, My name is Krisna Saputra. I study at Institute Technology Sumatera. My interest is Full Stack Developer.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Fais Aditya</h1>
+<h3 align="center">Halo, My name is Fais Aditya. My interest is Front-end Web Developer.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **(React JS,Tailwind CSS,SASS),Back End (Golang,Laravel)**
+- 🌱 I’m currently learning **(React JS,React Native,Tailwind CSS,SASS)**
 
-- 📫 How to reach me **krisnas053@gmail.com**
+- 📫 How to reach me **faisadityaperdana@gmail.com**
 
 - ⚡ Fun fact **I Think You Woman or Man**
 
@@ -43,7 +43,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/krisna saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krisna saputra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krisna saputra" height="30" width="40" /></a>
 <a href="https://instagram.com/krisnasaput.ra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krisnasaput.ra" height="30" width="40" /></a>
 <a href="https://discord.gg/Rule.s#8370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rule.s#8370" height="30" width="40" /></a>
 </p>
