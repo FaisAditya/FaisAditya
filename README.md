@@ -12,7 +12,7 @@
 - 📫 How to reach me **faisadityaperdana@gmail.com**
 
 - ⚡ Fun fact **I Think You Woman or Man**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 
