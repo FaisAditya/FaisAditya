@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **(React JS,React Native,Tailwind CSS,SASS)**
 
-- 👨‍💻 All of my projects are available at [https://faisaditya-portfolio.netlify.app/](https://faisaditya-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://faisaditya.github.io/](https://faisaditya.github.io/)
 
 - 📫 How to reach me **faisadityaperdana@gmail.com**
 
